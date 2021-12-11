@@ -1,5 +1,5 @@
 # translator-example
 Example of translator
 
-##Setup
+## Setup
 composer dump-autload
